@@ -2,7 +2,7 @@
   "name": "tarkovreputationbot",
   "version": "1.0.0",
   "description": "Discord Rep Bot",
-  "main": "bot.js",
+  "main": "index.js",
   "author": "Jacob / Geekmarine72",
   "dependencies": {
     "discord.io": "^2.5.3",
