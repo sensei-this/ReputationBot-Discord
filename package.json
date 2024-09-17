@@ -1,9 +1,9 @@
 {
-  "name": "tarkovreputationbot",
+  "name": "senseireputationbot",
   "version": "1.0.0",
   "description": "Discord Rep Bot",
   "main": "index.js",
-  "author": "Jacob / Geekmarine72",
+  "author": "sensei_this",
   "dependencies": {
     "discord.io": "^2.5.3",
     "discord.js": "^11.3.0",
